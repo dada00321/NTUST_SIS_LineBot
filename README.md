@@ -9,5 +9,5 @@ NTUST_SIS 為 大三下必修〈管理資訊系統〉期末策略資訊系統（
 （但平常不會為其開 ngrok，需要特別開起來才能用）
 
 ### 三校防疫資訊小助手 《Line Bot》 demo:
-**Youtube 示範影片連結:**
+**Youtube 功能展示影片:  **
 https://youtu.be/_UXmJ0XpuUA
