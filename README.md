@@ -1,4 +1,4 @@
-# 三校防疫資訊小助手《Line Bot》： 台大三校聯盟 - 防疫快訊爬蟲
+# 三校防疫資訊小助手《Line Bot》
 
 ### 三校防疫資訊小助手 LineBot 功能展示影片:
 https://youtu.be/_UXmJ0XpuUA
